@@ -1,0 +1,23 @@
+{
+  "name": "autotoptooltip",
+  "version": "0.1.0",
+  "description": "Automatically change position of Tooltip.js tolltips based on window width.",
+  "main": "dist/AutoTopTooltip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachleigh/autotoptooltip.git"
+  },
+  "keywords": [
+    "tooltip",
+    "tooltip.js"
+  ],
+  "author": "Zach Leigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zachleigh/autotoptooltip/issues"
+  },
+  "homepage": "https://github.com/zachleigh/autotoptooltip#readme"
+}
